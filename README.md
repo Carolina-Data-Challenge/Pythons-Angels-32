@@ -11,17 +11,11 @@ Specifically, to submit your project you will be required to complete the follow
 
 **PASTE PUBLIC VIDEO LINK HERE: ___________________________**
 
----
+--
 
-If you have any questions during the, either technical or logistical, be sure to reach out to a mentor and/or a director for assistance!
+--
+NOTE: FOR OUR CODE TO RUN ON YOUR SYSTEM, YOU MUST UNZIP the "DATA.ZIP" FILE AND STORE "CDC_CLEANED.CSV" IN THE SAME LOCATION AS YOUR FILE PATH
 
----
+ALSO, IN ORDER TO SEE ALL OF OUR VISUALIZATIONS STRAIGHT FROM THE CODE, OPEN THE .IPYNB FILE IN JUPYTER NOTEBOOK. THE .PY FILE RUNS, BUT WILL NOT DISPLAY PLOTLY GRAPHS
 
-If you are unfamiliar with Git and/or GitHub, we highly recommend that you utilize the following resources:
- 
- | Name | Description |
- |------|-------------|
- | [GitHub Desktop App](https://desktop.github.com/) | The GitHub desktop app makes it extremely easy to interact with repositories and visualize the changes you are making.
- | [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) | This markdown cheat sheet will help you style and structure your readme file if you feel inclined to do so.
- | [Git Fundamentals](https://rogerdudler.github.io/git-guide/) | This brief but informative guide will get you up and running with everything you need to know for your project submission in GitHub.
  
